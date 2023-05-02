@@ -1,6 +1,6 @@
 # PrestashopGoogleLogin
 Simple module to Log in customers using Sign in with Google One Tap user experience
-
+Checked PS 1.7.8.0 and 8.0.1
 Effortless module to enable customer login using Google's One Tap sign-in experience
 
 This module adds a login button and embeds the login script on all pages. When a user is logged into their Google account, the script will automatically prompt them to log in to PrestaShop using their Google credentials.
